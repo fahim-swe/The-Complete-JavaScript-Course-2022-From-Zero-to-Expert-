@@ -37,6 +37,5 @@ let job2 = "Student";
 
 
 // Data type
-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
+//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
 
-data type in JavaScripts
